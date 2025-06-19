@@ -1,0 +1,66 @@
+- [x] #task Parse the output from the llm #ongoing ✅ 2025-03-22
+- [x] #task Use ChatPromptTemplate to format the message so that it is explicit as to what is the human message #planned ✅ 2025-03-29
+- [x] #task Make powerpoint ✅ 2025-05-05
+- [x] #task create a explorer ✅ 2025-05-08
+- [x] #task get structured output ✅ 2025-04-24
+- [x] #task add {df_heads} to the planner's system message #planned ✅ 2025-05-08
+- [x] #task make the `pipeline` func with planner, executor #ongoing ✅ 2025-05-14
+- [x] #task migrate to langgraph #ongoing ✅ 2025-06-10
+	- [x] #task planner ✅ 2025-05-25
+	- [x] #task executor ✅ 2025-06-09
+- [x] #task Get gemini API and use it #ongoing ✅ 2025-06-18
+- [ ] #task refine config.py #planned
+- [ ] #task path to manifest should be set in Config #planned
+- [x] #task make the aggregator ✅ 2025-06-13
+- [x] #task create a router node that determines if the planner needs to be invoked or if it can answer the user's query itself. #ongoing ✅ 2025-05-25
+- [ ] #task put test queries into config.toml #planned
+- [x] #task create a script to download data ✅ 2025-06-04
+- [x] #task create tools to access blob and list the files #ongoing ✅ 2025-06-04
+- [x] #task Change the system prompts to include text from manifest.json instead of tree #planned ✅ 2025-06-06
+	- [x] #task dispose of get_tree_bash (put into archive) and create another function to read in `manifest.json` #planned ✅ 2025-06-06
+- [x] #task refine project structure #ongoing ✅ 2025-06-13
+- [ ] #task set up project releases #planned based on [about releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
+- [ ] #task set up logging with portkey #planned
+- [ ] #task Add examples to the system message to implement few-shot.
+- [ ] #task create a function to return a chatprompttemplate for an agent. Use kwargs to partially format.
+- [x] #task instead of invoking a new API call, add to the list of messages/ use memory. #planned ✅ 2025-06-13
+- [x] #task Extract the json plan #ongoing ✅ 2025-04-07
+- [x] #task Add a loop (max 5 times) to force proper output schema ✅ 2025-06-02
+- [ ] #task Integrate tools
+	- [ ] #task e2b
+	- [x] #task filesystem ✅ 2025-06-13
+	- [ ] #task Human as a tool
+	- [ ] #task openweathermap
+	- [ ] #task oracleai vector search https://python.langchain.com/docs/integrations/tools/oracleai/
+	- [ ] #task pubmed
+	- [x] #task python REPL ✅ 2025-06-13
+	- [ ] #task semantic scholar
+	- [ ] #task wikipedia
+- [ ] #task create a sandboxed environment with docker
+- [x] #task Create a function in config.py that will create output directories stamped by time #ongoing ✅ 2025-05-05
+- [x] #task move utility functions to utils.py #planned ✅ 2025-05-06
+- [ ] #task Use Llama index for analysing the data and producing a json file that contains information on the datasets. 
+- [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
+- [x] #task Fix the paths pointing to the data so that they are generic enough to be reproducible #planned(5m) ✅ 2025-03-21
+- [x] #task use an if name == main #planned ✅ 2025-03-19
+- [x] #task incorporate ollama with langchain ✅ 2025-03-21
+	- [x] #task read langchain-ollama (30m) #ongoing ✅ 2025-03-21
+- [x] #task put data used for research (proof of concept inside a separate dir) #planned ✅ 2025-03-20
+- [x] #task Put the data documentations in a folder from which the llm can extract information. #ongoing ✅ 2025-03-20
+- [ ] #task create a script to extract raw poultry sampling data
+- [ ] #task Peruse the questions. For each question, write a sample reasoning flow.
+- [ ] #task Write READMEs for the datasets on huggingface. #discuss
+- [x] #task Read Python's 'Input and Output' tutorial #ongoing ✅ 2025-03-21
+- [ ] #task Write a README.md on how to use data. Explain who to request access from, how to use the data and where to keep results in.
+- [x] #task Create schematic of langchain system. ✅ 2025-05-14
+- [x] #task Read about FAISS ✅ 2025-05-14
+	- [x] #task Read the Github wiki ✅ 2025-05-14
+	- [x] #task Read the Github README.md ✅ 2025-03-17
+- [ ] #task Review and test repo 'salmonella_study'
+	- [x] #task config.py ✅ 2025-03-17
+	- [x] #task data_preprocessing.py ✅ 2025-03-17
+	- [x] #task utils.py ✅ 2025-03-17
+	- [x] #task setup.py ✅ 2025-03-17
+	- [ ] #task scripts/preprocessing/merge_datasets.py
+	- [ ] #task scripts/processing/expand_merged.py
+- [ ] #task create list of important variables (written in notepad)

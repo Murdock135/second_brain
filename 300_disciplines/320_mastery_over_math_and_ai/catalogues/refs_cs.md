@@ -1,0 +1,6 @@
+- [ ] #book Computer Systems: A Programmer's Perspective
+- [ ] #book Modern Operating Systems by Tanenbaum
+- [ ] #book [The twelve factor app](https://12factor.net/)
+- [ ] #book Beyond the twelve factor app
+- [ ] #blog Python3 module of the week https://pymotw.com/3/
+- [ ] #docs https://docs.python.org/3/reference/

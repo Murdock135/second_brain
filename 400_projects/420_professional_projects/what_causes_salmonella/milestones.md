@@ -1,0 +1,6 @@
+- [x] #milestone Build the agentic system  #ongoing
+- [ ] #milestone Generalize merging script
+- [ ] #milestone Create the QA dataset #ongoing
+- [x]  #milestone Build the planner #ongoing
+- [x] #milestone build the executor
+- [x] #milestone build the aggregator
