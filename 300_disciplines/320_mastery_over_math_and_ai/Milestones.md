@@ -1,0 +1,11 @@
+- [ ] #milestone Do a project with Hadoop
+- [ ] #milestone Do a project with Ray
+- [ ] #milestone Do a project with Lambda
+- [x] #milestone Do a project with Langchain #ongoing 
+- [ ] #milestone Use docker in a project.
+- [ ] #milestone Read bash reference manual #ongoing
+- [x] #milestone Read vim tutor #ongoing
+- [ ] #milestone Configure neovim
+- [ ] #milestone Do Huggingface's course #ongoing
+- [ ] #milestone Read Using Github https://docs.github.com/en/get-started/using-github
+- [ ] #milestone Read what you haven't from the python docs #ongoing 

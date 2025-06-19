@@ -1,0 +1,7 @@
+- [x] #task Watch Andrej Karpathy's video on LLMs. ✅ 2025-02-17
+- [ ] #task Incorporate roadmaps for rest of the pillars.
+- [ ] #task Create a reference sheet for fuzzy set and fuzzy inference.
+- [ ] #task Create a reference sheet for MLP.
+- [ ] #task Create a reference sheet for CNNs.
+- [ ] #task Learn about pdb (python debugger) (30m) #planned
+- [ ] #task Peruse awesome list and import things #planned
