@@ -1,0 +1,6 @@
+- [x] #task Watch Andrej Karpathy's video on LLMs. ✅ 2025-02-17
+- [ ] #task Read https://plato.stanford.edu/entries/artificial-intelligence/ #planned #read
+- [ ] #task Incorporate roadmaps for rest of the pillars.
+- [ ] #task Learn about pdb (python debugger) (30m) #planned #read
+- [ ] #task Peruse awesome list and import things #planned
+- [ ] #task Read python docs 4.9 (recap-intermezzo) #planned #read

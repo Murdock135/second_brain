@@ -8,4 +8,7 @@
 - [ ] #milestone Configure neovim
 - [ ] #milestone Do Huggingface's course #ongoing
 - [ ] #milestone Read Using Github https://docs.github.com/en/get-started/using-github
-- [ ] #milestone Read what you haven't from the python docs #ongoing 
+- [ ] #milestone Finish reading python docs #ongoing 
+- [ ] #milestone Create a reference sheet for fuzzy set and fuzzy inference.
+- [ ] #milestone Create a reference sheet for MLP.
+- [ ] #milestone Create a reference sheet for CNNs.

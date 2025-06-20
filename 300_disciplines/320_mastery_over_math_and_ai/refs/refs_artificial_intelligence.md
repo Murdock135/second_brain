@@ -3,7 +3,6 @@
 - [ ] #book Computational intelligence (Rudolf Kruse)
 - [ ] #book On Neural Differential Equations
 - [ ] #course [Course on Parallel processing by Stanford CS149](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
-- [ ] 
 
 # Essential topics
 Note: This is list is ever-growing.

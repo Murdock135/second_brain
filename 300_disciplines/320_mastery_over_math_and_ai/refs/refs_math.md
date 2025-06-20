@@ -23,3 +23,4 @@
 
 # Misc
 1. [Springer graduate texts in math series](https://link.springer.com/series/0136)
+2. [Springer mathematics study resources](https://link.springer.com/series/16797)

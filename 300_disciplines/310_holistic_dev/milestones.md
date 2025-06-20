@@ -1,0 +1,5 @@
+- [ ] #milestone Learn ASL sign language
+- [ ] #milestone Learn first aid
+- [ ] #milestone Learn Wing Chun
+- [ ] #milestone Learn BJJ (Brazilian JiuJitsu)
+- [ ] #milestone Read the entire stanford encyclopedia of philosophy (ETF: 7 years)

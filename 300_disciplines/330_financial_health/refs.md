@@ -1,0 +1,1 @@
+- [ ] #book Introduction to finance (Ronald W. Melicher)

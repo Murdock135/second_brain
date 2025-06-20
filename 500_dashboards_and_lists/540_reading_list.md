@@ -1,3 +1,5 @@
-- [ ]  [4.8. Defining Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) - [4.9.5. Unpacking Argument Lists](https://docs.python.org/3/tutorial/controlflow.html#unpacking-argument-lists)
-- [ ]  [6.1. More on Modules](https://docs.python.org/3/tutorial/modules.html#more-on-modules)
-- [ ]  Chapter 9 (classes) - Chapter 16 (Appendix)
+
+```dataview
+task
+WHERE contains(tags, "#read")
+```
