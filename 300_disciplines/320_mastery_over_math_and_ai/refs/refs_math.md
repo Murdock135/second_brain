@@ -1,3 +1,4 @@
+
 # Statistics
 - [ ] #book Statistical Inference (Casella)
 
@@ -24,3 +25,8 @@
 # Misc
 1. [Springer graduate texts in math series](https://link.springer.com/series/0136)
 2. [Springer mathematics study resources](https://link.springer.com/series/16797)
+
+# Topics
+1. Operator theory
+2. Lorentzian Geometry
+3. 
