@@ -1,5 +1,9 @@
 - [ ] #milestone Generalize merging script
 - [ ] #milestone Create the QA dataset #ongoing
+- [ ] #milestone Find as much literature on agents, QA datasets, as possible and present them gradually. Focus on the following questions
+	- [ ] QA datasets
+	- [ ] Finetuning
+	- [ ] Prompt optimization
 
 # Archived
 

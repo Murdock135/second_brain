@@ -1,6 +1,7 @@
 
 - [x] #task path to manifest should be set in Config #planned ✅ 2025-06-24
 - [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24
+- [ ] #task Create CSV for QA dataset #ongoing
 - [ ] #task set up project releases #planned based on [about releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
 - [ ] #task set up logging with portkey #planned
 - [ ] #task Integrate tools

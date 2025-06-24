@@ -1,5 +1,7 @@
 ## Rambling
 - Brainstorm how to handle comments within NORS
+- QA dataset
+	- We could automatically generate a QA dataset using the available data
 - Ramblings about time series
 	- A smoothed time period e.g. a monthly progression would be better?
 	- Model the temperature

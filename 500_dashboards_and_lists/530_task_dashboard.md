@@ -43,4 +43,5 @@ WHERE !fullyCompleted
 TASK
 FROM "400_projects/420_professional_projects"
 WHERE !fullyCompleted
+WHERE contains(tags, "#task")
 ```
