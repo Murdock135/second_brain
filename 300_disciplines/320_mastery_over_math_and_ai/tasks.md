@@ -5,4 +5,3 @@
 - [ ] #task Peruse awesome list and import things
 - [ ] #task Read python docs 4.9 (recap-intermezzo) #read
 - [ ] #task Read Chapter 1 of Abstract algebra #ongoing
-- [ ] #task Replicate theorem 1.15 from Judson

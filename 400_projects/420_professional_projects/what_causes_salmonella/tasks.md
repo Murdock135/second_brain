@@ -1,11 +1,8 @@
 
-- [ ] #task refine config.py #planned
-- [ ] #task path to manifest should be set in Config #planned
-- [ ] #task put test queries into config.toml #planned
+- [x] #task path to manifest should be set in Config #planned ✅ 2025-06-24
+- [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24
 - [ ] #task set up project releases #planned based on [about releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
 - [ ] #task set up logging with portkey #planned
-- [ ] #task Add examples to the system message to implement few-shot.
-- [ ] #task create a function to return a chatprompttemplate for an agent. Use kwargs to partially format.
 - [ ] #task Integrate tools
 	- [ ] #task e2b
 	- [x] #task filesystem ✅ 2025-06-13
@@ -68,3 +65,4 @@
 - [x] #task refine project structure #ongoing ✅ 2025-06-13 🔒 [[2025-06-20]] 🕸️ tasks
 - [x] #task instead of invoking a new API call, add to the list of messages/ use memory. #planned ✅ 2025-06-13 🔒 [[2025-06-20]] 🕸️ tasks
 - [x] #task Get gemini API and use it #ongoing ✅ 2025-06-18 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task put test queries into config.toml #planned ✅ 2025-06-24 🔒 [[2025-06-24]] 🕸️ tasks

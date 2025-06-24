@@ -12,3 +12,4 @@
 - [ ] #milestone Create a reference sheet for fuzzy set and fuzzy inference.
 - [ ] #milestone Create a reference sheet for MLP.
 - [ ] #milestone Create a reference sheet for CNNs.
+- [ ] #milestone Read the big paper From RAG to Multi-Agent Systems: A Survey of Modern Approaches in LLM Development
