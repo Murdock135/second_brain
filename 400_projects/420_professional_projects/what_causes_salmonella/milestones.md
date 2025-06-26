@@ -4,6 +4,7 @@
 	- [ ] QA datasets
 	- [ ] Finetuning
 	- [ ] Prompt optimization
+- [ ] #milestone Do the experiment: Record the best answer, worst answer and most common answer for a number of times.
 
 # Archived
 

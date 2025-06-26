@@ -2,6 +2,7 @@
 - Brainstorm how to handle comments within NORS
 - QA dataset
 	- We could automatically generate a QA dataset using the available data
+	- pass@k- The agent can satisfactorily handle a question when k of its responses to that question are good.
 - Ramblings about time series
 	- A smoothed time period e.g. a monthly progression would be better?
 	- Model the temperature

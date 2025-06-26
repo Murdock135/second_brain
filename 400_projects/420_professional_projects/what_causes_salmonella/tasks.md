@@ -1,14 +1,17 @@
 
 - [x] #task path to manifest should be set in Config #planned ✅ 2025-06-24
 - [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24
-- [ ] #task Create CSV for QA dataset #ongoing
+- [x] #task Create json for QA dataset #ongoing
+- [ ] #task Create the weather calling tool
+- [ ] #task Find a benchmark QA dataset #ongoing
+- [ ] #task Set up langsmith dataset
 - [ ] #task set up project releases #planned based on [about releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
 - [ ] #task set up logging with portkey #planned
-- [ ] #task Integrate tools
+- [ ] #task Integrate tools #planned
 	- [ ] #task e2b
 	- [x] #task filesystem ✅ 2025-06-13
 	- [ ] #task Human as a tool
-	- [ ] #task openweathermap
+	- [ ] #task openweathermap #ongoing
 	- [ ] #task oracleai vector search https://python.langchain.com/docs/integrations/tools/oracleai/
 	- [ ] #task pubmed
 	- [x] #task python REPL ✅ 2025-06-13
