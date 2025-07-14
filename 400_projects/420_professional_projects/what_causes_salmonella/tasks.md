@@ -1,8 +1,7 @@
 
-- [x] #task path to manifest should be set in Config #planned ✅ 2025-06-24
-- [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24
-- [x] #task Create json for QA dataset #ongoing
-- [ ] #task Create the weather calling tool
+- [x] #task Finish report #ongoing
+- [ ] #task Use past weather data
+- [ ] #task Create a subset of QA dataset 
 - [ ] #task Find a benchmark QA dataset #ongoing
 - [ ] #task Set up langsmith dataset
 - [ ] #task set up project releases #planned based on [about releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
@@ -21,7 +20,7 @@
 - [ ] #task Use Llama index for analysing the data and producing a json file that contains information on the datasets. 
 - [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
 - [ ] #task create a script to extract raw poultry sampling data
-- [ ] #task Peruse the questions. For each question, write a sample reasoning flow.
+- [x] #task Peruse the questions. For each question, write a sample reasoning flow.
 - [ ] #task Write READMEs for the datasets on huggingface. #discuss
 - [ ] #task Write a README.md on how to use data. Explain who to request access from, how to use the data and where to keep results in.
 - [ ] #task Review and test repo 'salmonella_study'
@@ -70,3 +69,8 @@
 - [x] #task instead of invoking a new API call, add to the list of messages/ use memory. #planned ✅ 2025-06-13 🔒 [[2025-06-20]] 🕸️ tasks
 - [x] #task Get gemini API and use it #ongoing ✅ 2025-06-18 🔒 [[2025-06-20]] 🕸️ tasks
 - [x] #task put test queries into config.toml #planned ✅ 2025-06-24 🔒 [[2025-06-24]] 🕸️ tasks
+- [x] #task path to manifest should be set in Config #planned ✅ 2025-06-24 🔒 [[2025-06-27]] 🕸️ tasks
+- [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24 🔒 [[2025-06-27]] 🕸️ tasks
+- [x] #task Create json for QA dataset #ongoing 🔒 [[2025-06-27]] 🕸️ tasks
+- [x] #task Create video on baseline system 🔒 [[2025-06-27]] 🕸️ tasks
+- [x] #task Create a function to run the agentic system on a list of questions #planned 🔒 [[2025-06-27]] 🕸️ tasks
