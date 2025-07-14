@@ -9,3 +9,4 @@
 - [ ] https://langchain-ai.github.io/langgraph/tutorials/rewoo/rewoo/#conclusion
 - [ ] https://langchain-ai.github.io/langgraph/tutorials/code_assistant/langgraph_code_assistant/#graph
 - [ ]  [Unsupervised Commonsense Question Answering with Self-Talk](https://aclanthology.org/2020.emnlp-main.373.pdf)
+- [ ] [Prompt based QA](https://ieeexplore-ieee-org.proxy.mul.missouri.edu/stamp/stamp.jsp?tp=&arnumber=10723112)
