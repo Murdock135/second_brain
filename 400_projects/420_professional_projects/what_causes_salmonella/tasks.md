@@ -1,11 +1,17 @@
 
 - [x] #task Finish report #ongoing
 - [ ] #task Use past weather data
-- [ ] #task Create a subset of QA dataset 
-- [ ] #task Find a benchmark QA dataset #ongoing
-- [ ] #task Set up langsmith dataset
+- [x] #task path to manifest should be set in Config #planned ✅ 2025-06-24
+- [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24
+- [x] #task Create json for QA dataset #ongoing
+- [ ] #task [AgentRewardBench](https://arxiv.org/pdf/2504.08942) paper #read
+- [ ] #task Create the weather calling tool
+- [ ] #task Calculate/estimate compute needed 
+	- [ ] LLM calls API
+	- [ ] Logging API
+- [ ] #task Read https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/
+- [ ] #task Create a doc with issues/requests/ramblings
 - [ ] #task set up project releases #planned based on [about releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
-- [ ] #task set up logging with portkey #planned
 - [ ] #task Integrate tools #planned
 	- [ ] #task e2b
 	- [x] #task filesystem ✅ 2025-06-13
@@ -20,7 +26,6 @@
 - [ ] #task Use Llama index for analysing the data and producing a json file that contains information on the datasets. 
 - [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
 - [ ] #task create a script to extract raw poultry sampling data
-- [x] #task Peruse the questions. For each question, write a sample reasoning flow.
 - [ ] #task Write READMEs for the datasets on huggingface. #discuss
 - [ ] #task Write a README.md on how to use data. Explain who to request access from, how to use the data and where to keep results in.
 - [ ] #task Review and test repo 'salmonella_study'
