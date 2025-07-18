@@ -2,7 +2,7 @@
 - [x] #task path to manifest should be set in Config #planned ✅ 2025-06-24
 - [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24
 - [x] #task Create json for QA dataset #ongoing
-- [ ] #task [AgentRewardBench](https://arxiv.org/pdf/2504.08942) paper #read
+- [x] #task [AgentRewardBench](https://arxiv.org/pdf/2504.08942) paper #read ✅ 2025-07-18
 - [ ] #task Create the weather calling tool
 - [ ] #task Calculate/estimate compute needed 
 	- [ ] LLM calls API
@@ -25,6 +25,7 @@
 - [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
 - [ ] #task create a script to extract raw poultry sampling data
 - [ ] #task Write READMEs for the datasets on huggingface. #discuss
+- [ ] #task Write a README for the project #ongoing
 - [ ] #task Write a README.md on how to use data. Explain who to request access from, how to use the data and where to keep results in.
 - [ ] #task Review and test repo 'salmonella_study'
 	- [x] #task config.py ✅ 2025-03-17
