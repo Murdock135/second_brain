@@ -4,13 +4,14 @@
 - [x] #task path to manifest should be set in Config #planned ✅ 2025-06-24
 - [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24
 - [x] #task Create json for QA dataset #ongoing
-- [ ] #task [AgentRewardBench](https://arxiv.org/pdf/2504.08942) paper #read
+- [x] #task [AgentRewardBench](https://arxiv.org/pdf/2504.08942) paper #read
+- [ ] #task Write a readme #planned
 - [ ] #task Create the weather calling tool
 - [ ] #task Calculate/estimate compute needed 
 	- [ ] LLM calls API
-	- [ ] Logging API
+	- [ ] Logging API (langsmith)
 - [ ] #task Read https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/
-- [ ] #task Create a doc with issues/requests/ramblings
+- [ ] #task Create a doc with issues/requests/ramblings #planned
 - [ ] #task set up project releases #planned based on [about releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
 - [ ] #task Integrate tools #planned
 	- [ ] #task e2b
