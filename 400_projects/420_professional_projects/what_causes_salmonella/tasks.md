@@ -1,10 +1,5 @@
 
-- [x] #task Finish report #ongoing
 - [ ] #task Use past weather data
-- [x] #task path to manifest should be set in Config #planned ✅ 2025-06-24
-- [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24
-- [x] #task Create json for QA dataset #ongoing
-- [x] #task [AgentRewardBench](https://arxiv.org/pdf/2504.08942) paper #read
 - [ ] #task Write a readme #planned
 - [ ] #task Create the weather calling tool
 - [ ] #task Calculate/estimate compute needed 
@@ -28,6 +23,7 @@
 - [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
 - [ ] #task create a script to extract raw poultry sampling data
 - [ ] #task Write READMEs for the datasets on huggingface. #discuss
+- [ ] #task Write a README for the project #ongoing
 - [ ] #task Write a README.md on how to use data. Explain who to request access from, how to use the data and where to keep results in.
 - [ ] #task Review and test repo 'salmonella_study'
 	- [x] #task config.py ✅ 2025-03-17
@@ -80,3 +76,8 @@
 - [x] #task Create json for QA dataset #ongoing 🔒 [[2025-06-27]] 🕸️ tasks
 - [x] #task Create video on baseline system 🔒 [[2025-06-27]] 🕸️ tasks
 - [x] #task Create a function to run the agentic system on a list of questions #planned 🔒 [[2025-06-27]] 🕸️ tasks
+- [x] #task path to manifest should be set in Config #planned ✅ 2025-06-24 🔒 [[2025-07-18]] 🕸️ tasks
+- [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24 🔒 [[2025-07-18]] 🕸️ tasks
+- [x] #task Finish report #ongoing 🔒 [[2025-07-18]] 🕸️ tasks
+- [x] #task Create json for QA dataset #ongoing 🔒 [[2025-07-18]] 🕸️ tasks
+- [x] #task [AgentRewardBench](https://arxiv.org/pdf/2504.08942) paper #read ✅ 2025-07-18 🔒 [[2025-07-18]] 🕸️ tasks
