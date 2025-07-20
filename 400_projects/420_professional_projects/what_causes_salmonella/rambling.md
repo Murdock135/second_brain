@@ -201,7 +201,10 @@ This approach allows the agent to manage multiple dataframes, makes dependencies
 
 ---
 - The datasets cannot be set by the planner in the Plan object because then, the executor doesn't have autonomy in case it wants to analyze a different dataset. We need a way to dynamically change the plan with each iteration of the executor.
-
+- How to evaluate the system
+	- Create a dataset like that in [AgentRewardBench](https://arxiv.org/pdf/2504.08942)
+	- We can then use RLHF to make the system more like an epidemiologist.
+- Ask the system to produce a list of possible assumptions, rank ordered. We should probe the system to obtain a quantified 'amount' of belief in those assumptions.
 # References
 -   [Argonne Researchers Win Gordon Bell Special Prize for Using Language Models to Track Virus Variants - High-Performance Computing News Analysis | insideHPC](https://insidehpc.com/2022/12/argonne-researchers-win-gordon-bell-special-prize-for-using-language-models-to-track-virus-variants/)
 -  [Argonne researchers win Gordon Bell Special Prize for adapting language models to track virus variants | Argonne National Laboratory](https://www.anl.gov/article/argonne-researchers-win-gordon-bell-special-prize-for-adapting-language-models-to-track-virus#:~:text=Scientists%20from%20the%20U.S.%20Department,identifying%20how%20a%20virus%20evolves.)

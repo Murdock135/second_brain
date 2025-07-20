@@ -1,6 +1,5 @@
-
+- [ ] #task Create a script to run every expert query #ongoing
 - [ ] #task Use past weather data
-- [ ] #task Write a readme #planned
 - [ ] #task Create the weather calling tool
 - [ ] #task Calculate/estimate compute needed 
 	- [ ] LLM calls API
@@ -23,7 +22,7 @@
 - [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
 - [ ] #task create a script to extract raw poultry sampling data
 - [ ] #task Write READMEs for the datasets on huggingface. #discuss
-- [ ] #task Write a README for the project #ongoing
+- [x] #task Write a README for the project 
 - [ ] #task Write a README.md on how to use data. Explain who to request access from, how to use the data and where to keep results in.
 - [ ] #task Review and test repo 'salmonella_study'
 	- [x] #task config.py ✅ 2025-03-17
