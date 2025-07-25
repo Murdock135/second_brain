@@ -1,4 +1,4 @@
-- [ ] #task Create a script to run every expert query #ongoing
+- [x] #task Create a script to run every expert query #ongoing
 - [ ] #task Use past weather data
 - [ ] #task Create the weather calling tool
 - [ ] #task Calculate/estimate compute needed 
