@@ -1,4 +1,4 @@
-- [ ] #task Create a script to run every expert query #ongoing
+- [x] #task Create a script to run every expert query #ongoing ✅ 2025-07-23
 - [ ] #task Use past weather data
 - [ ] #task Create the weather calling tool
 - [ ] #task Calculate/estimate compute needed 
@@ -18,7 +18,6 @@
 	- [ ] #task semantic scholar
 	- [ ] #task wikipedia
 - [ ] #task create a sandboxed environment with docker
-- [ ] #task Use Llama index for analysing the data and producing a json file that contains information on the datasets. 
 - [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
 - [ ] #task create a script to extract raw poultry sampling data
 - [ ] #task Write READMEs for the datasets on huggingface. #discuss

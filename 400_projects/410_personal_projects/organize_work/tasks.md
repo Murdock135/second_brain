@@ -1,1 +1,1 @@
-- [ ] #task Learn dataview plugin
+- [x] #task Learn dataview plugin ✅ 2025-07-23
