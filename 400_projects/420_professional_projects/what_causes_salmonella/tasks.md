@@ -1,9 +1,10 @@
 
 - [x] #task Create a script to run every expert query #ongoing ✅ 2025-07-23
 - [ ] #task Use past weather data
+- [ ] #task Study Likert scale #ongoing
 - [ ] #task Create the weather calling tool
 - [ ] #task Calculate/estimate compute needed 
-	- [ ] LLM calls API
+	- [x] LLM calls API ✅ 2025-07-29
 	- [ ] Logging API (langsmith)
 - [ ] #task Read https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/
 - [ ] #task Create a doc with issues/requests/ramblings #planned
