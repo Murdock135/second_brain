@@ -9,3 +9,5 @@ Note: ! indicate the relative estimated duration for learning it to a sufficient
 8. Analysis
 9. Probability theory
 10. Mathematical statistics
+11. Latent variable modelling
+12. Multivariable statistics

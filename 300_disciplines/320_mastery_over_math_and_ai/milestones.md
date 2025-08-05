@@ -1,3 +1,4 @@
+This should follow from [[roadmap]].
 - [ ] #milestone Do a project with Hadoop
 - [ ] #milestone Do a project with Ray
 - [ ] #milestone Do a project with Lambda
@@ -13,3 +14,5 @@
 - [ ] #milestone Create a reference sheet for MLP.
 - [ ] #milestone Create a reference sheet for CNNs.
 - [ ] #milestone Read the big paper From RAG to Multi-Agent Systems: A Survey of Modern Approaches in LLM Development
+- [ ] #milestone Read the big paper: The Rise and Potential of Large Language Model Based Agents: A Survey
+- [ ] #milestone Combination of evidence in Dempster shafer theory
