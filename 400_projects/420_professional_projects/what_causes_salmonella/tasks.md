@@ -2,6 +2,7 @@
 - [x] #task Create a script to run every expert query #ongoing ✅ 2025-07-23
 - [ ] #task Use past weather data
 - [x] #task Study Likert scale #ongoing
+- [ ] #task Create function to save final answer #planned
 - [ ] #task Create the weather calling tool
 - [ ] #task Calculate/estimate compute needed 
 	- [x] LLM calls API ✅ 2025-07-29

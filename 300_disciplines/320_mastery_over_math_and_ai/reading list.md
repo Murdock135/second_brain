@@ -1,0 +1,14 @@
+- [ ] Read https://plato.stanford.edu/entries/artificial-intelligence/ #read
+- [ ] Learn about pdb (python debugger) (30m) #read
+- [ ] Read python docs 4.9 (recap-intermezzo) #read
+- [ ] Read Chapter 1 of Abstract algebra #ongoing
+- [ ] Read dempster shafer theory #ongoing #read 
+- [ ] Physics informed neural networks with hard constraints for inverse design #read
+- [ ] https://plato.stanford.edu/entries/abduction/ #read 
+- [ ] https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf #read
+- [ ] Theoretical issues in deep networks #read 
+- [ ] Pre-trained Gaussian Processes for Bayesian Optimization #read
+- [ ] A Geometrical Representation of McCulloch–Pitts Neural Model and Its Applications #read
+- [ ] Self-Adapting Language Models #read 
+- [ ] Agent-as-a-Judge:  Evaluate Agents with Agents #read 
+- [ ] 

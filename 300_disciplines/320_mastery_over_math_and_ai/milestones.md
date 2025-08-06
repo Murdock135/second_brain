@@ -16,3 +16,5 @@
 - [ ] #milestone set up your own NixOS configuration
 - [ ] #milestone learn Distrobox #ongoing 
 - [ ] #milestone Read 'Modern Operating systems' By Andrew Tanenbaum
+- [ ] #milestone Read the big paper: The Rise and Potential of Large Language Model Based Agents: A Survey
+- [ ] #milestone Combination of evidence in Dempster shafer theory
