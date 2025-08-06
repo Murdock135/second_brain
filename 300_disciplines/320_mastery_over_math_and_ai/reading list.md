@@ -11,4 +11,6 @@
 - [ ] A Geometrical Representation of McCulloch–Pitts Neural Model and Its Applications #read
 - [ ] Self-Adapting Language Models #read 
 - [ ] Agent-as-a-Judge:  Evaluate Agents with Agents #read 
-- [ ] 
+- [ ] https://www.anthropic.com/research/reasoning-models-dont-say-think
+- [ ] https://www.anthropic.com/research/tracing-thoughts-language-model
+- [ ] https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-tracing

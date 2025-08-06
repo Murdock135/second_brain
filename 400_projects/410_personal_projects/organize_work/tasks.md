@@ -1,1 +1,2 @@
 - [x] #task Learn dataview plugin ✅ 2025-07-23
+- [ ] #task Learn nix from https://zero-to-nix.com/
