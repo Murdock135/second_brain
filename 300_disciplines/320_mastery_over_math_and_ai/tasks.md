@@ -6,3 +6,4 @@
 - [ ] #task Read python docs 4.9 (recap-intermezzo) #read
 - [ ] #task Read Chapter 1 of Abstract algebra #ongoing
 - [ ] #task Read dempster shafer theory #ongoing #read
+- [ ] 

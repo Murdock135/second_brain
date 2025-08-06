@@ -1,5 +1,5 @@
-- [ ] #milestone Do a project with Hadoop
-- [ ] #milestone Do a project with Ray
+
+- [x] #milestone Do a project with Ray ✅ 2025-08-02
 - [ ] #milestone Do a project with Lambda
 - [x] #milestone Do a project with Langchain #ongoing 
 - [ ] #milestone Use docker in a project.
@@ -13,3 +13,6 @@
 - [ ] #milestone Create a reference sheet for MLP.
 - [ ] #milestone Create a reference sheet for CNNs.
 - [ ] #milestone Read the big paper From RAG to Multi-Agent Systems: A Survey of Modern Approaches in LLM Development
+- [ ] #milestone set up your own NixOS configuration
+- [ ] #milestone learn Distrobox #ongoing 
+- [ ] #milestone Read 'Modern Operating systems' By Andrew Tanenbaum

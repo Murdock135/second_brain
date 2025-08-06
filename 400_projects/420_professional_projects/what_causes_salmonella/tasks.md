@@ -1,7 +1,7 @@
 
 - [x] #task Create a script to run every expert query #ongoing ✅ 2025-07-23
 - [ ] #task Use past weather data
-- [ ] #task Study Likert scale #ongoing
+- [x] #task Study Likert scale #ongoing
 - [ ] #task Create the weather calling tool
 - [ ] #task Calculate/estimate compute needed 
 	- [x] LLM calls API ✅ 2025-07-29
@@ -13,7 +13,6 @@
 	- [ ] #task e2b
 	- [x] #task filesystem ✅ 2025-06-13
 	- [ ] #task Human as a tool
-	- [ ] #task openweathermap #ongoing
 	- [ ] #task oracleai vector search https://python.langchain.com/docs/integrations/tools/oracleai/
 	- [ ] #task pubmed
 	- [x] #task python REPL ✅ 2025-06-13
