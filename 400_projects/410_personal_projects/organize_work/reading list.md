@@ -1,0 +1,1 @@
+- [ ]  read a portion of https://neovim.io/doc/user/lsp.html #read 

@@ -79,5 +79,4 @@
 - [x] #task path to manifest should be set in Config #planned ✅ 2025-06-24 🔒 [[2025-07-18]] 🕸️ tasks
 - [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24 🔒 [[2025-07-18]] 🕸️ tasks
 - [x] #task Finish report #ongoing 🔒 [[2025-07-18]] 🕸️ tasks
-- [x] #task Create json for QA dataset #ongoing 🔒 [[2025-07-18]] 🕸️ tasks
-- [x] #task [AgentRewardBench](https://arxiv.org/pdf/2504.08942) paper #read ✅ 2025-07-18 🔒 [[2025-07-18]] 🕸️ tasks
+- [x] #task Create json for QA dataset #ongoing 🔒 [[2025-07-18]] 🕸️ tasks 
