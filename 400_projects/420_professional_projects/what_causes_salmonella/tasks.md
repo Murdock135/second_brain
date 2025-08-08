@@ -1,8 +1,6 @@
 
-- [x] #task Create a script to run every expert query #ongoing ✅ 2025-07-23
 - [ ] #task Use past weather data
-- [x] #task Study Likert scale #ongoing
-- [ ] #task Create function to save final answer #ongoing
+- [ ] #task Create function to save final answer #planned
 - [ ] #task Create the weather calling tool
 - [ ] #task Calculate/estimate compute needed 
 	- [x] LLM calls API ✅ 2025-07-29
@@ -10,7 +8,8 @@
 - [ ] #task Read https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/
 - [ ] #task Create a doc with issues/requests/ramblings #planned
 - [ ] #task set up project releases #planned based on [about releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
-- [ ] #task Integrate tools #planned
+	- [ ] #task set up codebase as a distributable #ongoing
+- [ ] #task Integrate tools
 	- [ ] #task e2b
 	- [x] #task filesystem ✅ 2025-06-13
 	- [ ] #task Human as a tool
@@ -23,7 +22,6 @@
 - [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
 - [ ] #task create a script to extract raw poultry sampling data
 - [ ] #task Write READMEs for the datasets on huggingface. #discuss
-- [x] #task Write a README for the project 
 - [ ] #task Write a README.md on how to use data. Explain who to request access from, how to use the data and where to keep results in.
 - [ ] #task Review and test repo 'salmonella_study'
 	- [x] #task config.py ✅ 2025-03-17
@@ -80,3 +78,6 @@
 - [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24 🔒 [[2025-07-18]] 🕸️ tasks
 - [x] #task Finish report #ongoing 🔒 [[2025-07-18]] 🕸️ tasks
 - [x] #task Create json for QA dataset #ongoing 🔒 [[2025-07-18]] 🕸️ tasks 
+- [x] #task Create a script to run every expert query #ongoing ✅ 2025-07-23 🔒 [[2025-08-08]] 🕸️ tasks
+- [x] #task Study Likert scale #ongoing 🔒 [[2025-08-08]] 🕸️ tasks
+- [x] #task Write a README for the project  🔒 [[2025-08-08]] 🕸️ tasks
