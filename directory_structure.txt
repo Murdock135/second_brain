@@ -1,0 +1,92 @@
+.
+├── 100_start
+│   ├── how_i_work.md
+│   └── readme.md
+├── 200_life
+│   ├── readme.md
+│   └── values.md
+├── 300_disciplines
+│   ├── 310_holistic_dev
+│   │   ├── milestones.md
+│   │   ├── pillars.md
+│   │   └── tasks.md
+│   ├── 320_mastery_over_math_and_ai
+│   │   ├── milestones.md
+│   │   ├── pillars.md
+│   │   ├── reading list.md
+│   │   ├── refs
+│   │   │   ├── main_refs.md
+│   │   │   ├── refs_artificial_intelligence.md
+│   │   │   ├── refs_coding.md
+│   │   │   ├── refs_cs.md
+│   │   │   └── refs_math.md
+│   │   ├── research_ideas
+│   │   │   ├── agentic systems.md
+│   │   │   ├── beyond_semantics_rebuttal.md
+│   │   │   └── When does a Language model seek help and when should it?.md
+│   │   ├── roadmap.md
+│   │   └── tasks.md
+│   └── 330_financial_health
+│       ├── budget.md
+│       ├── pillars.md
+│       └── refs.md
+├── 400_projects
+│   ├── 410_personal_projects
+│   │   └── organize_work
+│   │       ├── milestones.md
+│   │       └── tasks.md
+│   ├── 420_professional_projects
+│   │   ├── misc.md
+│   │   └── what_causes_salmonella
+│   │       ├── milestones.md
+│   │       ├── rambling.md
+│   │       ├── refs.md
+│   │       └── tasks.md
+│   ├── 430_class_projects
+│   ├── archived
+│   └── readme.md
+├── 500_dashboards_and_lists
+│   ├── 510_resolutions
+│   │   └── 2025.md
+│   ├── 520_project_dashboard.md
+│   ├── 530_task_dashboard.md
+│   ├── 540_reading_list.md
+│   └── 550_play_watch_list.md
+├── 600_resources
+│   ├── daily_routines
+│   │   └── 1.md
+│   ├── exercise
+│   │   ├── splits
+│   │   │   ├── 1.md
+│   │   │   └── 2.md
+│   │   └── workout_routines
+│   │       ├── 1 Full body 01.md
+│   │       └── 2 Explosive 01.md
+│   ├── How to reward yourself for working out.md
+│   ├── ideas for work.md
+│   ├── impactful_quotes.md
+│   ├── Obsidian
+│   │   ├── Dataview
+│   │   │   ├── DQL (Dataview query language).md
+│   │   │   ├── How to query tasks and lists.md
+│   │   │   ├── Inline fields.md
+│   │   │   ├── Intro.md
+│   │   │   └── Metadata.md
+│   │   └── YAML front matter.md
+│   ├── programs I use.md
+│   ├── recipes
+│   │   ├── bengali_chicken_roast.md
+│   │   └── chili_crisp_shrimp.md
+│   └── writings, thoughts
+│       ├── journal entries
+│       │   └── Aug 3 2025.md
+│       └── our behavior towards our creations.md
+├── directory_structure.txt
+├── inbox
+│   ├── Possible Dissertation topics.md
+│   └── readme.md
+├── readme.md
+├── Screenshot from 2025-06-20 13-38-53.png
+└── ShareMyPlugin.md
+
+29 directories, 61 files

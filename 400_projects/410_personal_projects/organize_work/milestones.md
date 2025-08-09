@@ -1,0 +1,3 @@
+- [ ] #milestone set up dotfiles
+- [ ] #milestone set up tmux
+- [ ] #milestone set up neovim
