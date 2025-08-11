@@ -5,7 +5,6 @@ This document is the full description on how you work, which consists of two thi
 
 #  2. Organization
 How you work entirely depends on how you organize the components of your work. (If you are a CS PhD like me, I believe these will be those components: [[#Components of work (as a CS PhD)]]). We normally have many many components that ideally work together. But I've found that this ideal case is very difficult to realize. We tend to categorize things and just stop there, not thinking about whether the categorization helps being productive. To come up with a better way of organizing these components, I've articulated a goal and the underlying principles in [[#How I organize these components]].
-
 ## 2.1 Components of work (as a CS PhD)
 The components that I usually have to work with are-
 1. Books and Papers.
