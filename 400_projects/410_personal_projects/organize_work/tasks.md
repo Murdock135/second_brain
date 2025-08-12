@@ -1,1 +1,1 @@
-
+- [ ] #task Add the capability to search for text to lazyvim

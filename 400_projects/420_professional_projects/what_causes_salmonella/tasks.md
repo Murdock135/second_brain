@@ -1,6 +1,8 @@
 
 - [ ] #task Use past weather data
-- [ ] #task Create function to save final answer #planned
+- [ ] #task fix the df summary extraction code for *census_population* data.
+- [ ] #task Create function to save final answer #planned 
+	- save everything. Have a timestamp.
 - [ ] #task Create the weather calling tool
 - [ ] #task Calculate/estimate compute needed 
 	- [x] LLM calls API ✅ 2025-07-29
