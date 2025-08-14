@@ -1,1 +1,3 @@
-- [ ] #task Add the capability to search for text to lazyvim
+- [x] #task Add the capability to search for text to lazyvim
+- [x] #task install uv
+- [x] #task explore uv
