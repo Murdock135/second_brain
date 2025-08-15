@@ -14,3 +14,5 @@
 - [ ] https://www.anthropic.com/research/reasoning-models-dont-say-think #read
 - [ ] https://www.anthropic.com/research/tracing-thoughts-language-model #read
 - [ ] https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-tracing #read
+- [ ] https://docs.astral.sh/uv/guides/integration/docker/
+# D

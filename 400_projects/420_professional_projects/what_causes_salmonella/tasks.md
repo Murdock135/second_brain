@@ -1,8 +1,9 @@
-
-- [ ] #task Use past weather data
+- [ ] #task email Dr. Anand #planned
 - [ ] #task fix the df summary extraction code for *census_population* data.
 - [x] #task Create function to save final answer #planned 
 - [ ] #task Create a formatter node that will format the final answer nicely. 
+- [ ] #task Create run scripts for mitesh and Dr. Kangogo
+- [ ] #task listen to recording of meeting with Dr. A.
 - [ ] #task Create the weather calling tool
 - [ ] #task Calculate/estimate compute needed 
 	- [x] LLM calls API ✅ 2025-07-29
@@ -20,18 +21,11 @@
 	- [x] #task python REPL ✅ 2025-06-13
 	- [ ] #task semantic scholar
 	- [ ] #task wikipedia
-- [ ] #task create a sandboxed environment with docker
+- [ ] #task create docker image #ongoing
 - [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
 - [ ] #task create a script to extract raw poultry sampling data
 - [ ] #task Write READMEs for the datasets on huggingface. #discuss
 - [ ] #task Write a README.md on how to use data. Explain who to request access from, how to use the data and where to keep results in.
-- [ ] #task Review and test repo 'salmonella_study'
-	- [x] #task config.py ✅ 2025-03-17
-	- [x] #task data_preprocessing.py ✅ 2025-03-17
-	- [x] #task utils.py ✅ 2025-03-17
-	- [x] #task setup.py ✅ 2025-03-17
-	- [ ] #task scripts/preprocessing/merge_datasets.py
-	- [ ] #task scripts/processing/expand_merged.py
 - [ ] #task create list of important variables (written in notepad)
 
 # Archived

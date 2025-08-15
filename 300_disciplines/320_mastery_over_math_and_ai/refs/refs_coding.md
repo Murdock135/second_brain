@@ -7,7 +7,9 @@
 - [ ] #book Beyond the twelve factor app
 - [ ] #blog Python3 module of the week https://pymotw.com/3/
 - [ ] #docs https://docs.python.org/3/reference/
-
+# Docker
+- [ ] #docs https://docs.docker.com/guides/jupyter/?utm_source=chatgpt.com#share-your-work
+- [ ] #book Docker up and running
 # Dev tools and libraries
 19. Docker
 20. Git

@@ -1,3 +1,10 @@
 - [x] #task Add the capability to search for text to lazyvim
 - [x] #task install uv
 - [x] #task explore uv
+- [ ] #task install git crypt and set up with dotfiles #ongoing
+- [ ] #task move to omarchy
+	- [ ] #task set up API keys
+		- [ ] google
+		- [ ] hf
+		- [ ] langsmith
+		- [ ] github
