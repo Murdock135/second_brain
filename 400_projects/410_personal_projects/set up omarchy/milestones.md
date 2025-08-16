@@ -1,0 +1,1 @@
+- [ ] #milestone set up hyprshell

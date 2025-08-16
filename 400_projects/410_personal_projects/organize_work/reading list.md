@@ -1,1 +1,0 @@
-- [x] read a portion of https://neovim.io/doc/user/lsp.html #read ✅ 2025-08-14
