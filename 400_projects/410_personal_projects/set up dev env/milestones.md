@@ -1,0 +1,4 @@
+- [ ] #milestone set up hyprshell
+- [ ] #milestone set up dotfiles
+- [ ] #milestone set up hyprland
+- [ ] #milestone set up declarative OS with nix

@@ -1,6 +1,0 @@
-- [ ] #milestone set up dotfiles
-- [ ] #milestone set up tmux
-- [ ] #milestone set up neovim
-- [ ] #milestone set up gitcrypt
-- [ ] #milestone set up arch linux
-- [ ] #milestone set up nix
