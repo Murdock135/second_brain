@@ -7,3 +7,5 @@
 		- [ ] hf
 		- [ ] langsmith
 		- [ ] github
+- [ ] #task create package lists for arch and macos
+- [ ] #task use chatgpt's new code for `load.sh` to source aliases and functions
