@@ -2,3 +2,4 @@
 - [ ] #milestone set up dotfiles
 - [ ] #milestone set up hyprland
 - [ ] #milestone set up declarative OS with nix
+- [ ] #milestone read some arch wiki

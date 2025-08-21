@@ -1,7 +1,9 @@
-- [ ] #task email Dr. Anand #planned
+- [x] #task email Dr. Anand #planned
 - [ ] #task fix the df summary extraction code for *census_population* data.
 - [x] #task Create function to save final answer #planned 
 - [ ] #task Create a formatter node that will format the final answer nicely. 
+- [ ] #task Read literature mitesh sent out
+- [ ] #task create likert scale
 - [ ] #task Create run scripts for mitesh and Dr. Kangogo
 - [ ] #task listen to recording of meeting with Dr. A.
 - [ ] #task Create the weather calling tool
