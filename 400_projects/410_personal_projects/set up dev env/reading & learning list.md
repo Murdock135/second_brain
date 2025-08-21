@@ -5,5 +5,5 @@
 - [ ] arch
 - [ ] GNU stow
 - [ ] tmux
-- [ ] bash scripting
+- [ ] https://learnxinyminutes.com/bash/
 - [ ] nix
