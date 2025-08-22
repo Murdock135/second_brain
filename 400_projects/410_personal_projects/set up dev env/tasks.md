@@ -9,3 +9,5 @@
 		- [ ] github
 - [ ] #task create package lists for arch and macos
 - [ ] #task use chatgpt's new code for `load.sh` to source aliases and functions
+- [ ] #task set up config file
+- [ ] #task symlink nvim_omarchy.../plugins to nvim/...plugins/

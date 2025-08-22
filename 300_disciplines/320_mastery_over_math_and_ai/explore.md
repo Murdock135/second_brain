@@ -1,1 +1,2 @@
 - [ ] x86_64 instruction set, cpu - programmers manual
+- [ ] yay
