@@ -8,6 +8,8 @@
 		- [ ] langsmith
 		- [ ] github
 - [ ] #task create package lists for arch and macos
-- [ ] #task use chatgpt's new code for `load.sh` to source aliases and functions
+- [x] #task use chatgpt's new code for `load.sh` to source aliases and functions ✅ 2025-08-22
 - [ ] #task set up config file
-- [ ] #task symlink nvim_omarchy.../plugins to nvim/...plugins/
+- [x] #task symlink nvim_omarchy.../plugins to nvim/...plugins/ ✅ 2025-08-22
+- [x] #task append plugins to omarchy's and write readme ✅ 2025-08-22
+- [ ] #task incorporate aerospace tiling into mac
