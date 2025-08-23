@@ -13,3 +13,8 @@
 - [x] #task symlink nvim_omarchy.../plugins to nvim/...plugins/ ✅ 2025-08-22
 - [x] #task append plugins to omarchy's and write readme ✅ 2025-08-22
 - [ ] #task incorporate aerospace tiling into mac
+- [x] #task create .bashrc and .bash_profile for macos ✅ 2025-08-23
+- [ ] #task include in readme the repo structure (note that I use .bash_profile and not .profile)
+- [ ] #task configure alacritty
+- [ ] #task configure starship
+- [ ] #task set up nvim config

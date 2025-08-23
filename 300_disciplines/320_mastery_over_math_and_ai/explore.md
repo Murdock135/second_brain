@@ -1,2 +1,3 @@
 - [ ] x86_64 instruction set, cpu - programmers manual
 - [ ] yay
+- [ ] making system prompts and MCP in vs code
