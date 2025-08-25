@@ -18,3 +18,5 @@
 - [x] #task configure starship ✅ 2025-08-24
 - [x] #task set up nvim config ✅ 2025-08-24
 - [ ] #task write docker set up script
+- [ ] #task include lazydocker in Brewfile and arch package list
+- [ ] #task write a script to create directories for code, obsidian vaults and pull obsidian vaults
