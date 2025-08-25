@@ -7,14 +7,14 @@
 		- [ ] hf
 		- [ ] langsmith
 		- [ ] github
-- [ ] #task create package lists for arch and macos
+- [x] #task create package lists for arch and macos ✅ 2025-08-24
 - [x] #task use chatgpt's new code for `load.sh` to source aliases and functions ✅ 2025-08-22
-- [ ] #task set up config file
 - [x] #task symlink nvim_omarchy.../plugins to nvim/...plugins/ ✅ 2025-08-22
 - [x] #task append plugins to omarchy's and write readme ✅ 2025-08-22
 - [ ] #task incorporate aerospace tiling into mac
 - [x] #task create .bashrc and .bash_profile for macos ✅ 2025-08-23
 - [ ] #task include in readme the repo structure (note that I use .bash_profile and not .profile)
-- [ ] #task configure alacritty
-- [ ] #task configure starship
-- [ ] #task set up nvim config
+- [x] #task configure alacritty ✅ 2025-08-24
+- [x] #task configure starship ✅ 2025-08-24
+- [x] #task set up nvim config ✅ 2025-08-24
+- [ ] #task write docker set up script
