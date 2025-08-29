@@ -20,5 +20,9 @@
 - [ ] #task write docker set up script
 - [ ] #task include lazydocker in Brewfile and arch package list
 - [ ] #task write a script to create directories for code, obsidian vaults and pull obsidian vaults
+<<<<<<< HEAD
 - [ ] #task After setup is complete, include a note asking the user to install programs from `other_packages.txt` manually.
 - [ ] #task in aliases, change `external` to `theirs`
+=======
+- [ ] #task set up key binding for taking screenshots
+>>>>>>> d9a169f (.)

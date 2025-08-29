@@ -2,7 +2,7 @@
 - [x] #milestone Do a project with Ray ✅ 2025-08-02
 - [ ] #milestone Do a project with Lambda
 - [x] #milestone Do a project with Langchain #ongoing 
-- [ ] #milestone Use docker in a project.
+- [x] #milestone Use docker in a project. ✅ 2025-08-28
 - [ ] #milestone Read bash reference manual #ongoing
 - [x] #milestone Read vim tutor #ongoing
 - [ ] #milestone Configure neovim
@@ -20,3 +20,4 @@
 - [ ] #milestone Combination of evidence in Dempster shafer theory
 - [ ] #milestone Read and understand the Neovim codebase
 - [ ] #milestone read dockerfile ref https://docs.docker.com/reference/dockerfile/#overview
+- [ ] #milestone do Andrej Karpathy's LLMs from scratch course
