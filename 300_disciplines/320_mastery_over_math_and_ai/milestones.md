@@ -19,3 +19,4 @@
 - [ ] #milestone Read the big paper: The Rise and Potential of Large Language Model Based Agents: A Survey
 - [ ] #milestone Combination of evidence in Dempster shafer theory
 - [ ] #milestone Read and understand the Neovim codebase
+- [ ] #milestone read dockerfile ref https://docs.docker.com/reference/dockerfile/#overview

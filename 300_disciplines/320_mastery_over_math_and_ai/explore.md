@@ -12,3 +12,4 @@
 - [ ] speech dispatcher
 - [ ] ports
 - [ ] server side programming
+- [ ] vs code tools for working with docker
