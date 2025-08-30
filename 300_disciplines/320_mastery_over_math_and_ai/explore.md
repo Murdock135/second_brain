@@ -11,11 +11,8 @@
 	- [ ] wayland
 - [ ] speech dispatcher
 - [ ] ports
-<<<<<<< HEAD
 - [ ] server side programming
-- [ ] vs code tools for working with docker
-=======
 - [ ] vs code tools for working with docker
 - [ ] CDI devices
 - [ ] All things Docker
->>>>>>> d9a169f (.)
+- [ ] python packaging guide (wheels)
