@@ -1,5 +1,6 @@
 - [ ] #milestone set up hyprshell
-- [ ] #milestone set up dotfiles
-- [ ] #milestone set up hyprland
+- [x] #milestone set up dotfiles ✅ 2025-09-03
+- [x] #milestone set up hyprland ✅ 2025-09-03
 - [ ] #milestone set up declarative OS with nix
 - [ ] #milestone read some arch wiki
+- [ ] 

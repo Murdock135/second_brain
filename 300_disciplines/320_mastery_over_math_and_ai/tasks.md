@@ -1,4 +1,5 @@
 - [x] #task Watch Andrej Karpathy's video on LLMs. ✅ 2025-02-17
 - [ ] #task Incorporate roadmaps for rest of the pillars.
 - [ ] #task Peruse awesome list and import things
+- [ ] #task upload c book by biju to google drive
 

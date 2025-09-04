@@ -1,1 +1,6 @@
 - [ ] #task Get access to the intercept articles
+- [ ] #task Create a study workflow that takes advantage of chatgpt
+	- for example, using chatgpt to summarize the full API reference of a programming framework or a book.
+	- creating cheatsheets after studying.
+	- creating notes using chatgpt.
+- [ ] #task create a new vault structure for your second brain

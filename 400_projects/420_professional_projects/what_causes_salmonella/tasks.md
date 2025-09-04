@@ -1,4 +1,5 @@
 - [x] #task email Dr. Anand #planned
+- [ ] #task create node that creates data manifest
 - [ ] #task fix the df summary extraction code for *census_population* data.
 - [x] #task Create function to save final answer #planned 
 - [ ] #task Create a formatter node that will format the final answer nicely. 

@@ -16,3 +16,5 @@
 - [ ] CDI devices
 - [ ] All things Docker
 - [ ] python packaging guide (wheels)
+- [ ] claude code vs codex cli
+- [ ] collaborating using docker
