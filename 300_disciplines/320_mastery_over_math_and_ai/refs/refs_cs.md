@@ -1,2 +1,7 @@
 - [ ] #book Computer Systems: A Programmer's Perspective
 - [ ] #book Modern Operating Systems by Tanenbaum
+- [ ] #course [computation structures by MIT](https://www.youtube.com/watch?v=7P-LGEJS3A8&list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
+- [ ] #course [Performance engineering for software systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+- [ ] #course [computation structures](https://ocw.mit.edu/ans7870/6/6.005/s16/general/) (has no lecture videos). [readings](https://ocw.mit.edu/ans7870/6/6.005/s16/)
+- [ ] #course [x86 assembly with NASM](https://youtube.com/playlist?list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&si=z2bOQBkl0XNkBrds)
+- [ ] 
