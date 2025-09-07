@@ -1,5 +1,4 @@
 - [x] #task email Dr. Anand #planned
-- [ ] #task create node that creates data manifest
 - [ ] #task fix the df summary extraction code for *census_population* data.
 - [x] #task Create function to save final answer #planned 
 - [ ] #task Create a formatter node that will format the final answer nicely. 
@@ -15,7 +14,6 @@
 - [ ] #task Read https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/
 - [ ] #task Create a doc with issues/requests/ramblings #planned
 - [ ] #task set up project releases #planned based on [about releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
-	- [ ] #task set up codebase as a distributable #ongoing
 - [ ] #task Integrate tools
 	- [ ] #task e2b
 	- [x] #task filesystem ✅ 2025-06-13
@@ -26,6 +24,7 @@
 	- [ ] #task semantic scholar
 	- [ ] #task wikipedia
 - [ ] #task create docker image #ongoing
+	- [ ] #task create `.dockerignore` #ongoing
 - [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
 - [ ] #task create a script to extract raw poultry sampling data
 - [ ] #task Write READMEs for the datasets on huggingface. #discuss
