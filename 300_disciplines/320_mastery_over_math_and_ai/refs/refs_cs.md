@@ -4,4 +4,11 @@
 - [ ] #course [Performance engineering for software systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 - [ ] #course [computation structures](https://ocw.mit.edu/ans7870/6/6.005/s16/general/) (has no lecture videos). [readings](https://ocw.mit.edu/ans7870/6/6.005/s16/)
 - [ ] #course [x86 assembly with NASM](https://youtube.com/playlist?list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&si=z2bOQBkl0XNkBrds)
-- [ ] 
+- [ ] #book [Inside JVM](https://www.artima.com/insidejvm/ed2/)
+- [ ] https://www.nand2tetris.org/
+- [ ] #course [Build a 65c02-based computer from scratch](https://youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH&si=P5kDVm81F_Sl0Ey7)
+- [ ] #course [Networking tutorial](https://youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW&si=p4yYSG7nnsOct85L)
+- [ ] #course [build your own package manager (typescript)](https://github.com/g-plane/tiny-package-manager)
+- [ ] #wiki [OSDev](https://wiki.osdev.org/Expanded_Main_Page)
+# Chats
+- [learning java](https://chatgpt.com/share/68bc7437-979c-800e-967c-01f12757f2d3)
