@@ -10,5 +10,6 @@
 - [ ] #course [Networking tutorial](https://youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW&si=p4yYSG7nnsOct85L)
 - [ ] #course [build your own package manager (typescript)](https://github.com/g-plane/tiny-package-manager)
 - [ ] #wiki [OSDev](https://wiki.osdev.org/Expanded_Main_Page)
+- [ ] #docs https://dev.java/learn/
 # Chats
 - [learning java](https://chatgpt.com/share/68bc7437-979c-800e-967c-01f12757f2d3)

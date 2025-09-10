@@ -17,3 +17,7 @@
 - [ ] https://docs.astral.sh/uv/guides/integration/docker/
 # Docker
 
+- [ ] #read Do the docker workshop
+- [ ] #read Everything in https://docs.docker.com/get-started/ up to 'Running containers'
+- [x] #read Dockerfile syntax ✅ 2025-09-09
+- [ ] #read Everything in https://docs.docker.com/manuals/

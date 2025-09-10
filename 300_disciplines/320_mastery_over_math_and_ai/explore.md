@@ -15,6 +15,8 @@
 - [ ] vs code tools for working with docker
 - [ ] CDI devices
 - [ ] All things Docker
+
+
 - [ ] uv
 - [ ] python packaging guide (wheels)
 - [ ] claude code vs codex cli
