@@ -14,10 +14,8 @@
 - [ ] server side programming
 - [ ] vs code tools for working with docker
 - [ ] CDI devices
-- [ ] All things Docker
-
-
-- [ ] uv
+- [x] All things Docker ✅ 2025-09-10
+- [x] uv ✅ 2025-09-10
 - [ ] python packaging guide (wheels)
 - [ ] claude code vs codex cli
 - [ ] collaborating using docker

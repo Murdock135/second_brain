@@ -39,6 +39,7 @@ ___
 	- Twelve factor app
 - Computing
 	- [Parallel computing](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
+	- [What every programmer should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) (Use [this spreadsheet](https://docs.google.com/spreadsheets/d/145RvpkXPHngCk-VL-F5otTAlWMJ04OhPl2zks7_HwRI/edit?pli=1&gid=0#gid=0) to read selectively).
 - Probability theory
 	- Probability, random processes with applications to signal processing
 	- High dimensional probability by roman vershynin
