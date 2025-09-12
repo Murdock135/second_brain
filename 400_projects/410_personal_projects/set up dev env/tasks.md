@@ -8,6 +8,7 @@
 - [ ] #task set up key binding for taking screenshots
 - [x] #task install codex cli
 - [ ] #task install https://www.cerebroapp.com/
+- [ ] 
 
 # Archived
 

@@ -3,4 +3,5 @@
 - [x] #milestone set up hyprland ✅ 2025-09-03
 - [ ] #milestone set up declarative OS with nix
 - [ ] #milestone read some arch wiki
-- [ ] 
+- [x] #milestone create a dark mode omarchy theme ✅ 2025-09-12
+- [ ] #milestone create a light mode omarchy theme

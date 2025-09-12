@@ -1,0 +1,1 @@
+- [ ] #task get a notebook that shows the calendar right beside the notes section
