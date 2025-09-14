@@ -1,5 +1,6 @@
 - [ ] x86_64 instruction set, cpu - programmers manual
 - [ ] yay
+- [ ] fish shell
 - [ ] making system prompts and MCP in vs code
 - [ ] sed
 - [ ] awk
