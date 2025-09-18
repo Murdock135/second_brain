@@ -24,7 +24,7 @@
 	- [ ] #task semantic scholar
 	- [ ] #task wikipedia
 - [ ] #task create docker image #ongoing
-	- [ ] #task create `.dockerignore` #ongoing
+	- [x] #task create `.dockerignore` #ongoing ✅ 2025-09-16
 - [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
 - [ ] #task create a script to extract raw poultry sampling data
 - [ ] #task Write READMEs for the datasets on huggingface. #discuss

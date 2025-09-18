@@ -8,6 +8,7 @@
 	- [Build a 65c02-based computer from scratch](https://youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH&si=P5kDVm81F_Sl0Ey7)
 	- [build your own package manager (typescript)](https://github.com/g-plane/tiny-package-manager)
 	- [Computation structures (MIT)](https://ocw.mit.edu/ans7870/6/6.005/s16/)
+- 
 ___ 
 ## Parallel work
 - Language Models (D2L.ai)
