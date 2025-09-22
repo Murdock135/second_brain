@@ -1,1 +1,0 @@
-- [ ] https://docs.astral.sh/uv/guides/integration/docker/#configuring-watch-with-docker-compose #read

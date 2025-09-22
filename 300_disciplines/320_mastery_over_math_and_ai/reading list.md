@@ -15,12 +15,16 @@
 - [ ] https://www.anthropic.com/research/tracing-thoughts-language-model #read
 - [ ] https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-tracing #read
 - [ ] https://docs.astral.sh/uv/guides/integration/docker/
+# Python
+- [ ] #read https://peps.python.org/pep-3147/#flow-chart
+- [ ] #read https://packaging.python.org/en/latest/overview/
 # Docker
 
-- [ ] #read Do the docker workshop
-- [ ] #read Everything in https://docs.docker.com/get-started/ up to 'Running containers'
+- [x] #read Do the docker workshop ✅ 2025-09-19
+- [x] #read Everything in https://docs.docker.com/get-started/ up to 'Running containers' ✅ 2025-09-19
 - [x] #read Dockerfile syntax ✅ 2025-09-09
 - [ ] #read Everything in https://docs.docker.com/manuals/
 
 # UV
+- [ ] #read everything in docs
 

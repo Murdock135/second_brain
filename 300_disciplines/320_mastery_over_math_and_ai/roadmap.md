@@ -26,7 +26,6 @@ ___
 - Analysis (william wade)
 - Abstract algebra (Comprehensive treatment)
 - Read all [papers from D2L.ai](https://d2l.ai/chapter_references/zreferences.html)
-
 # Continuous learning
 - Kernel dev
 	- Linux Kernel dev
